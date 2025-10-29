@@ -1,0 +1,344 @@
+# Sistema de Encaje Léxico · Maestro
+
+Este documento coordina el Sistema de Encaje Léxico ↔︎ [SiEL], un [SiST] modular de [DeCO] que optimiza la comunicación entre [UsUA] y [MlLM] mediante terminología unificada y protocolos estructurados.
+
+El [SiEL] opera mediante tres componentes interdependientes:
+
+1. [InSY] - Instrucciones de Sistema de este [PyLM] que configuran el comportamiento automático y obligatorio del [MlLM]
+2. Este Documento Maestro - Contiene el glosario unificado de [SñAL], la arquitectura del [SiEL] y las metodologías de trabajo
+3. Documentos de [EnLX] - Cada uno aporta [DeCO] específicas de su dominio (Universal, Variables, Epistemológico, Estratégico, Táctico, Sistema de Fichas)
+
+Principios fundamentales:
+
+- Prioridad absoluta → [InSY] > [DeCO] del [SiEL] > conocimiento general del [MlLM]
+- Interdependencia obligatoria → Todos los componentes deben estar activos simultáneamente
+- Procesamiento paralelo → El [MlLM] carga todo el [CtXT] pero interpreta según prioridad establecida
+- Persistencia total → [VaRI] y [DeCO] permanecen activas durante toda la [SeSN]
+
+---
+
+# Sistema de Señales de Activación
+
+## Señales de Activación ↔︎ [SñAL]
+
+Las [SñAL] son códigos abreviados entre corchetes que permiten referenciar [DeCO] del [SiEL] de forma eficiente. Funcionan como atajos lingüísticos que optimizan la comunicación entre [UsUA] y [MlLM], reduciendo tokens y aumentando precisión.
+
+### Declaración de Señales
+
+En el [SiEL], cada [DeCO] tiene una [SñAL] equivalente.
+
+La notación es: [DeCO] ↔︎ [SñAL]
+
+Esto significa que [DeCO] y [SñAL] son completamente intercambiables en cualquier [CtXT].
+
+Ejemplos:
+
+- Destilar ↔︎ [DsTR]
+- [empresa/marca] ↔︎ [E/M]
+- [IfIA] de nivel 1 ↔︎ [IfN1]
+
+Una vez declarada, puedes usar indistintamente:
+
+- "Necesito destilar este contenido"
+- "Necesito [DsTR] este contenido"
+- "Aplica un [DsTR] al documento"
+
+Nota: Cada [SñAL] puede usarse en singular o plural según contexto (un [DeCO] o varios [DeCO]).
+
+### Formato de [SñAL]
+
+Todas las [SñAL] siguen este formato: [AaAA]
+
+Donde:
+
+- Posición 1 → Letra mayúscula (A-Z)
+- Posición 2 → Letra minúscula (a-z) o caracteres especiales: /, -, +, :, =, &, #, $, →, %, ▶︎, ☆
+- Posición 3 → Letra mayúscula (A-Z)
+- Posición 4 → Letra mayúscula (A-Z) o números (0-9)
+
+### Reglas de Construcción
+
+1. Estructura obligatoria → Siempre 4 caracteres entre corchetes
+2. Sin acentos → No usar tildes, diéresis u otros diacríticos en ninguna posición
+3. Consistencia → Una vez definida, la [SñAL] no puede modificarse
+4. Unicidad → Cada [SñAL] debe ser única en todo el [SiEL]
+
+### Ejemplos Válidos
+
+- [AbCD] → Válido, usando letras
+- [AbC1] → Válido, usando letras y número
+- [A+B3] → Válido, usando carácter especial y número
+
+### Excepción: Variables Fundamentales
+
+Las [VaRI] en el documento "EL · Variables Fundamentales" usan un formato diferente:
+
+- Formato → [X/Y] donde X e Y son letras mayúsculas
+- Ejemplos → [E/M], [P/S], [C/R]
+- Con numeración → [C/R 1], [R/F 2]
+
+### Creación de [SñAL]
+
+1. Verificar unicidad → Confirmar que no existe en el glosario unificado ni en ningún documento del [SiEL]
+2. Elegir mnemotecnia → Preferir combinaciones que evoquen el [DeCO]
+3. Documentar inmediatamente → Agregar al glosario unificado
+4. Validar coherencia → Verificar que no genere confusión con [SñAL] existentes
+
+## Glosario Unificado de Señales
+
+| Señal | Concepto o Variable | Documento |
+| --- | --- | --- |
+| [A/P] | Actores/Players | EL · Variables Fundamentales |
+| [AcDI] | Acción Digital | EL · Táctico |
+| [AfES] | Afirmación Estratégica | EL · Epistemológico |
+| [AnCE] | Ángulo Creativo | EL · Táctico |
+| [AnZR] | Analizar | EL · Universal |
+| [ArQT] | Arquetipo | EL · Táctico |
+| [AsPN] | Aspiración | EL · Estratégico |
+| [AtBP] | Atributos/Beneficios/Promesas | EL · Estratégico |
+| [AtBT] | Atributo | EL · Estratégico |
+| [AtPS] | [AtBP] de [P/S] | EL · Estratégico |
+| [AuES] | Audiencias Estratégicas | EL · Estratégico |
+| [BeNF] | Beneficio | EL · Estratégico |
+| [BuPA] | Buena Práctica | EL · Táctico |
+| [BuPE] | Buyer Persona | EL · Estratégico |
+| [C/E] | Campo Empresarial | EL · Variables Fundamentales |
+| [C/L] | Clientes | EL · Variables Fundamentales |
+| [C/P] | Clientes/Prospectos | EL · Variables Fundamentales |
+| [C/R X] | Competidor X | EL · Variables Fundamentales |
+| [C/R] | Competidores | EL · Variables Fundamentales |
+| [ChNA] | Coherencia | EL · Universal |
+| [CiVM] | Ciclo de Valor del Mercado | EL · Estratégico |
+| [CoCR] | Conceptualizar | EL · Universal |
+| [CoMD] | Comando | EL · Universal |
+| [CoSJ] | Consejo | EL · Táctico |
+| [CoTD] | Contradicción | EL · Universal |
+| [CoTH] | Cadena de Pensamiento | EL · Universal |
+| [CrIR] | Criticar | EL · Universal |
+| [CtXT] | Contexto | EL · Universal |
+| [DeCO] | Concepto Delimitado | EL · Universal |
+| [DfFE] | Deficiencias/Frustraciones/Expectativas Incumplidas | EL · Estratégico |
+| [DfIA] | Deficiencia | EL · Estratégico |
+| [DfIR] | Definir | EL · Universal |
+| [DfPS] | [DfFE] Incumplidas de [P/S] | EL · Estratégico |
+| [DgAR] | Diagnosticar | EL · Universal |
+| [DoCR] | Documentar | EL · Universal |
+| [DsPA] | Disparador | EL · Estratégico |
+| [DsTR] | Destilar | EL · Universal |
+| [E/A] | Empresas Actores/Players | EL · Variables Fundamentales |
+| [E/C X] | Empresa Competidora X | EL · Variables Fundamentales |
+| [E/C] | Empresas Competidoras | EL · Variables Fundamentales |
+| [E/M] | Empresa/Marca | EL · Variables Fundamentales |
+| [E/R X] | Empresa Referente X | EL · Variables Fundamentales |
+| [E/R] | Empresas Referentes | EL · Variables Fundamentales |
+| [E/X X] | Empresa Referente Externa X | EL · Variables Fundamentales |
+| [E/X] | Empresas Referente Externas | EL · Variables Fundamentales |
+| [EcDC] | Ecosistema de Desarrollo Creativo | EL · Táctico |
+| [EcDI] | Ecosistema Digital | EL · Táctico |
+| [EjCR] | Ejecutar | EL · Universal |
+| [EnLX] | Encaje Léxico | EL · Universal |
+| [EsPC] | Especulación | EL · Universal |
+| [EsQR] | Esquematizar | EL · Universal |
+| [EsTG] | Estrategia | EL · Estratégico |
+| [EsVE] | Estructura Verbal | EL · Táctico |
+| [EsVI] | Estructura Visual | EL · Táctico |
+| [EtIF] | Etiquetado de Inferencias | EL · Epistemológico |
+| [ExIN] | Expectativa Incumplida | EL · Estratégico |
+| [FiC1] | Ficha de [C/R 1] | EL · Sistema de Fichas |
+| [FiC2] | Ficha de [C/R 2] | EL · Sistema de Fichas |
+| [FiC3] | Ficha de [C/R 3] | EL · Sistema de Fichas |
+| [FiC4] | Ficha de [C/R 4] | EL · Sistema de Fichas |
+| [FiC5] | Ficha de [C/R 5] | EL · Sistema de Fichas |
+| [FiCH] | Ficha | EL · Sistema de Fichas |
+| [FiCX] | Ficha de [C/R X] | EL · Sistema de Fichas |
+| [FiEM] | Ficha de [E/M] | EL · Sistema de Fichas |
+| [FiPB] | Ficha de [PoBL] | EL · Sistema de Fichas |
+| [FiPS] | Ficha de [P/S] | EL · Sistema de Fichas |
+| [FiSI] | Ficha de [S/I] | EL · Sistema de Fichas |
+| [FrON] | Frustración | EL · Estratégico |
+| [HaCK] | Hack | EL · Táctico |
+| [HeCH] | Hecho/Dato/Factual | EL · Epistemológico |
+| [HeDI] | Herramienta | EL · Táctico |
+| [IaCO] | IA Colaboradora | EL · Universal |
+| [IaEJ] | IA Ejecutora | EL · Universal |
+| [IdER] | Idear | EL · Universal |
+| [IdEX] | Identidad Expresiva | EL · Táctico |
+| [IeEM] | Identidad Estratégica de [E/M] | EL · Corporativo y Sectorial |
+| [IePS] | Identidad Estratégica de [P/S] | EL · Estratégico |
+| [IfIA] | Inferencia/Deducción | EL · Epistemológico |
+| [IfN1] | Inferencia Nivel 1 | EL · Epistemológico |
+| [IfN2] | Inferencia Nivel 2 | EL · Epistemológico |
+| [IfN3] | Inferencia Nivel 3 | EL · Epistemológico |
+| [InCL] | Insight Clave | EL · Estratégico |
+| [InFR] | Inferir | EL · Universal |
+| [InSY] | Instrucciones de Sistema | EL · Universal |
+| [InTS] | Intensidad | EL · Táctico |
+| [InVR] | Investigar | EL · Universal |
+| [JuVL] | Juicio de Valor | EL · Epistemológico |
+| [KnBA] | Base de Conocimiento | EL · Universal |
+| [MaPA] | Mala Práctica | EL · Táctico |
+| [MeDR] | Medir | EL · Universal |
+| [MeTD] | Método | EL · Estratégico |
+| [MiON] | Misión | EL · Corporativo y Sectorial |
+| [MlLM] | Modelo LLM | EL · Universal |
+| [NeCS] | Necesidad | EL · Estratégico |
+| [OpZR] | Optimizar | EL · Universal |
+| [OutP] | Output/Resultado | EL · Universal |
+| [P/P] | Prospectos | EL · Variables Fundamentales |
+| [P/S] | Producto/Servicio | EL · Variables Fundamentales |
+| [PaFR] | Parafrasear | EL · Universal |
+| [PbCA] | Playbook de Canal | EL · Táctico |
+| [PbFN] | Playbook de Fórmulas Narrativas | EL · Táctico |
+| [PbNA] | Problemas/Necesidades/Aspiraciones | EL · Estratégico |
+| [PbPS] | [PbNA] que resuelve [P/S] | EL · Estratégico |
+| [PlCR] | Planificar | EL · Universal |
+| [PlDI] | Plataforma | EL · Táctico |
+| [PoBF] | [PoBL] Flotante | EL · Estratégico |
+| [PoBH] | [PoBL] Habitante | EL · Estratégico |
+| [PoBL] | Población | EL · Estratégico |
+| [PoOB] | Población Objetivo | EL · Estratégico |
+| [PrBL] | Problema | EL · Estratégico |
+| [PrDC] | Predicción/Pronóstico | EL · Epistemológico |
+| [PrDR] | Producir | EL · Universal |
+| [PrER] | Predecir | EL · Universal |
+| [PrIP] | Principio | EL · Táctico |
+| [PrMS] | Promesa | EL · Estratégico |
+| [PrPM] | Input/Prompt | EL · Universal |
+| [PrPP] | Propósito | EL · Corporativo y Sectorial |
+| [PrVU] | Propuesta de Valor Unificada | EL · Estratégico |
+| [PuOB] | Público Objetivo | EL · Estratégico |
+| [PyLM] | Proyecto LLM | EL · Universal |
+| [QyAN] | Q&A | EL · Universal |
+| [R/F X] | Referente X | EL · Variables Fundamentales |
+| [R/F] | Referentes | EL · Variables Fundamentales |
+| [R/X X] | Referente Externo X | EL · Variables Fundamentales |
+| [R/X] | Referentes Externos | EL · Variables Fundamentales |
+| [ReSR] | Resumir | EL · Universal |
+| [RsUP] | Resultado Superlativo | EL · Universal |
+| [S/I] | Sector/Industria | EL · Variables Fundamentales |
+| [SeOB] | Segmento Objetivo | EL · Estratégico |
+| [SeSN] | Sesión | EL · Universal |
+| [SiAB] | Sistema de Etiquetado de [AtBP] | EL · Estratégico |
+| [SiCE] | Sistema para Crear Estrategias | EL · Estratégico |
+| [SiDF] | Sistema de Etiquetado de [DfFE] | EL · Estratégico |
+| [SiEL] | Sistema de Encaje Léxico | EL · Maestro |
+| [SiFI] | Sistema de Fichas | EL · Sistema de Fichas |
+| [SiIF] | Sistema de Inferencias | EL · Epistemológico |
+| [SiMR] | Simplificar | EL · Universal |
+| [SiPN] | Sistema de Etiquetado de [PbNA] | EL · Estratégico |
+| [SiSM] | Sistema Sectorial/Mayoritario/Minoritario | EL · Estratégico |
+| [SiST] | Sistema | EL · Estratégico |
+| [SiTR] | Sintetizar | EL · Universal |
+| [SñAL] | Señal de Activación | EL · Maestro |
+| [SoLP] | Solapamiento | EL · Universal |
+| [SoPS] | SOP | EL · Estratégico |
+| [TaCT] | Táctica | EL · Estratégico |
+| [TeCO] | Territorio Conceptual | EL · Estratégico |
+| [TiPS] | Tip | EL · Táctico |
+| [UsUA] | Usuario | EL · Universal |
+| [VaRI] | Variable | EL · Variables Fundamentales |
+| [VaRS] | Valores | EL · Corporativo y Sectorial |
+| [ViON] | Visión | EL · Corporativo y Sectorial |
+| [ViTT] | Visitantes | EL · Estratégico |
+| [Z/B] | Zona Global | EL · Variables Fundamentales |
+| [Z/G] | Zona Geográfica | EL · Variables Fundamentales |
+| [Z/L] | Zona Local | EL · Variables Fundamentales |
+| [Z/R] | Zona Regional | EL · Variables Fundamentales |
+
+# Arquitectura del Sistema
+
+## Procesamiento y Memoria
+
+- Interpretación jerárquica → [InSY] configuran comportamiento > Documento Maestro proporciona vocabulario > [EnLX] aplican según dominio
+- Persistencia de [SeSN] → Cada [VaRI] y [DeCO] permanecen activas toda la [SeSN]
+- Reconocimiento por proximidad → [MlLM] detecta [DeCO] aunque no se use terminología exacta
+
+## Flujos Operativos
+
+- Aplicación automática → [UsUA] menciona [DeCO] > [MlLM] aplica [DeCO] correspondiente > Notifica si es por proximidad
+- [VaRI] obligatorias → Si falta declaración > Solicitar inmediatamente > No [InFR] contenido
+
+## Resolución de Conflictos
+
+- Entre [DeCO] → Prevalece la más específica al [CtXT]
+- [DeCO] sin definir → Usar conocimiento general + sugerir crear [DeCO]
+- Ambigüedad → Solicitar aclaración al [UsUA]
+
+## Evolución del Sistema
+
+- Detección → Identificar conceptos (término, sistema, proceso o elemento) recurrentes sin [DeCO]
+- Propuesta → Sugerir nuevas [SñAL] o [EnLX] cuando sea útil
+- Integración → Nuevos elementos no afectan existentes
+
+# Metodología de Creación de Documentos de [EnLX]
+
+## Formato Estándar
+
+Los nuevos [EnLX] del [SiEL] siguen esta estructura obligatoria:
+
+```
+# Sistema de Encaje Léxico · [Nombre]
+
+Este documento contiene [DeCO] especializadas en [dominio].
+Forma parte del [SiEL] → [InSY] + "EL · Maestro" + Documentos de [EnLX] especializados.
+Las [DeCO] aquí definidas tienen prioridad sobre conocimiento general.
+
+---
+
+## [Categoría 1]
+### Concepto ↔︎ [Señal]
+Definición precisa del concepto...
+
+## [Categoría 2]
+### Concepto ↔︎ [Señal]
+Definición precisa del concepto...
+
+```
+
+## Principios para [DeCO]
+
+1. Delimitación absoluta → Evitar [SoLP] con [DeCO] existentes en las [InSY] o en los documentos de [EnLX] que componen el [SiEL]
+2. Verificación exhaustiva → Chequear coherencia con documentos de [EnLX] existentes en el [SiEL]
+3. Estructura flexible → Adaptar formato según naturaleza del [DeCO]
+4. Prioridad funcional → Delimitación perfecta sobre adherencia estricta a formato
+
+## Criterios de Calidad
+
+- Unicidad semántica → Cada [DeCO] debe ocupar espacio semántico único
+- Operatividad práctica → [DeCO] aplicables en contextos reales
+- Escalabilidad → Permitir expansión sin reestructuración fundamental
+- Eficiencia de tokens → Máxima precisión con mínima extensión
+
+## Validación Obligatoria
+
+1. Verificar unicidad de [SñAL] → Validar que cada [SñAL] elegida no existe en ningún documentos de [EnLX] del [SiEL]
+2. Delimitación conceptual → Garantizar que cada [DeCO] ocupe espacio semántico único con fronteras milimétricas
+3. Eficiencia documental → Si información existe en otro documentos de [EnLX], referenciar en lugar de duplicar
+4. Coherencia sistémica → Verificar [ChNA] y/o ausencia de [CoTD] con [DeCO] existentes
+5. Aplicabilidad práctica → Probar en al menos 3 contextos operativos diferentes (ejemplos: solicitud de análisis, generación de contenido, consulta de definición, ejecución de táctica, desarrollo estratégico, documentación de sistema)
+6. Optimización de [SñAL] → Máxima mnemotecnia con formato de [SñAL] establecido
+
+# Protocolo de Escalabilidad
+
+## Agregar Nuevos Documentos
+
+1. Identificar necesidad → Detectar área temática no cubierta
+2. Delimitar alcance → Definir fronteras precisas del nuevo documento de [EnLX]
+3. Crear documento de [EnLX] → Aplicar metodología de creación
+4. Actualizar Documento Maestro → Agregar nuevas [SñAL] a glosario unificado
+5. Validar integración → Verificar [ChNA] con [SiEL]
+
+## Actualizar Documentos Existentes
+
+1. Proponer modificación → Identificar [DeCO] a agregar/modificar
+2. Verificar impacto → Analizar efecto en documentos de [EnLX] relacionados
+3. Implementar cambio → Actualizar [DeCO] específicas
+4. Sincronizar maestro → Actualizar glosario si hay nuevas [SñAL]
+5. Validar [ChNA] → Confirmar ausencia de [CoTD] introducidas
+
+## Mantenimiento del Glosario
+
+- Validación de unicidad → Verificar que nuevas [SñAL] no dupliquen existentes
+- Actualización automática → Agregar nuevas [SñAL] al crear documentos de [EnLX]
+- Revisión periódica → Verificar [ChNA] y detectar [SoLP] o [CoTD]
+- Optimización continua → Mejorar eficiencia de [SñAL] existentes
