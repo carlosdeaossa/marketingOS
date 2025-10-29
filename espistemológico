@@ -1,0 +1,208 @@
+# Sistema de Encaje Léxico · Epistemológico
+
+Este documento contiene [DeCO] especializadas en distinguir el origen epistemológico de una frase en el [SiEL].
+
+Forma parte del [SiEL] → [InSY] + "EL · Maestro" + Documentos de [EnLX] especializados.
+
+Las [DeCO] aquí definidas tienen prioridad sobre conocimiento general.
+
+---
+
+# Origen Epistemológico de la Información
+
+## Hecho ↔︎ [HeCH]
+
+Afirmación sobre la realidad verificable mediante observación directa, medición o consulta de registros aceptados. Los [HeCH] mantienen su valor de verdad independientemente de opiniones personales.
+
+Criterios de Identificación:
+
+- Verificable mediante métodos comúnmente aceptados
+- Sin valoraciones subjetivas
+- Consenso mayoritario sobre su veracidad
+- Diferentes observadores llegan a la misma conclusión
+
+Marcadores Lingüísticos:
+
+- Números y medidas específicas
+- Fechas y horarios concretos
+- Verbos de estado neutro
+- Ubicaciones precisas
+
+Características Operativas:
+
+- Sinonimia Completa → "Hecho", "Dato" y "Factual" son términos equivalentes
+- Etiquetado → NO requieren etiqueta (son la base factual del [SiIF])
+- Temporalidad → [HeCH] variables requieren marcador temporal explícito
+- Operaciones → Cálculos matemáticos sobre [HeCH] generan nuevos [HeCH]
+- Registros Históricos → Eventos documentados con consenso mayoritario mantienen estatus de [HeCH]
+
+Ejemplos Empresariales:
+
+- Ventas Q1—2024: COP $2.450.000
+- Oficina principal en Cll 45 # 23 - 67, Medellín
+- [P/S] pesa 2.3 kg
+
+## Afirmación Estratégica ↔︎ [AfES]
+
+Declaración subjetiva que una persona o entidad ([empresa/marca], [producto/servicio], etc.) adopta como verdad operativa para tomar decisiones estratégicas. Aunque cuestionable y no incontrovertible como un [HeCH], funciona como base factual para la persona o entidad que la declara.
+
+Características Operativas:
+
+- Naturaleza → Subjetivas pero operativamente tratadas como [HeCH]
+- Formalización → Requieren declaración explícita y documentación por parte de la persona o entidad
+- Temporalidad → Vigentes hasta modificación explícita
+- Modificabilidad → La persona o entidad puede reformularla
+- Componentes → Pueden contener [HeCH] que mantienen su estatus epistemológico
+
+Ejemplos Empresariales:
+
+- Selección y definición de [BuPE]
+- Definición de la [PrVU]
+- Escogencia de un [AnCE]
+Delimitación vs **[HeCH]**:
+- [HeCH] → Verificable objetivamente
+- [AfES] → Subjetiva pero adoptada como verdad estratégica u operativa
+
+## Inferencia ↔︎ [IfIA]
+
+Conclusión lógica derivada de premisas establecidas mediante metodologías rigurosas de razonamiento. Si las premisas son válidas y el razonamiento es correcto, la conclusión se sigue necesariamente.
+
+Características Operativas:
+
+- Sinonimia Completa → "Inferencia" y "Deducción" son términos equivalentes
+- Metodologías Válidas → Deducción, inducción, abducción, analogía, razonamiento por eliminación, silogismo y otros procesos lógicos rigurosos
+- Premisas Permitidas → [HeCH], [AfES] o [IfIA] previas
+- Etiquetado Obligatorio → Toda [IfIA] debe clasificarse según [SiIF] y marcarse con [EtIF]
+
+Marcadores Lingüísticos:
+
+- Conectores lógicos → Por lo tanto, entonces, en consecuencia
+- Estructura condicional → Si...entonces, dado que...se sigue que
+- Indicadores de necesidad → Necesariamente, debe ser, tiene que
+- Verbos de derivación → Implica, conlleva, resulta en
+
+Origen: [IfIA] es el producto resultante de la acción [InFR]
+
+### Sistema de Inferencias ↔︎ [SiIF]
+
+Clasificar información según origen lógico y nivel de confiabilidad para mantener trazabilidad epistemológica.
+
+Niveles de Clasificación:
+
+- Factual → [HeCH] y [AfES] - información base (sin etiqueta)
+- [IfIA] N1 → Conclusión directa de información base mediante razonamiento lógico válido
+- [IfIA] N2 → Conclusión derivada de [IfN1] mediante razonamiento lógico válido
+- [IfIA] N3 → Conclusión derivada de [IfN2] mediante razonamiento lógico válido
+- Especulación ↔︎ [EsPC] → Conclusión derivada de [IfN3] u otra [EsPC] mediante razonamiento lógico válido
+- Criterio de Confiabilidad → Niveles superiores a [IfIA] N3 son [EsPC]. Cada nivel debe demostrar origen lógico del anterior.
+
+### Etiquetado de Inferencias ↔︎ [EtIF]
+
+Marcar automáticamente el nivel de certeza epistemológica de cada afirmación.
+
+Protocolo de Aplicación:
+
+- Evaluar cada afirmación según [SiIF]
+- Aplicar etiqueta correspondiente: [IfN1], [IfN2], [IfN3], [EsPC]
+- Aplicación automática sin solicitud explícita
+
+Formato de Etiquetas:
+
+- [IfN1] → [IfIA] de Nivel 1
+- [IfN2] → [IfIA] de Nivel 2
+- [IfN3] → [IfIA] de Nivel 3
+- [EsPC] → Especulación ([IfIA] de Nivel 4 o superior)
+
+## Predicción ↔︎ [PrDC]
+
+Afirmación sobre eventos o estados futuros basada en análisis de información, tendencias, modelos o metodologías diversas. Se caracteriza por su orientación temporal futura y admite incertidumbre inherente.
+
+Características Operativas:
+
+- Sinonimia Completa → "Predicción", "Pronóstico" y "Extrapolación" son términos equivalentes
+- Orientación Temporal → Exclusivamente referida a eventos futuros
+- Flexibilidad Metodológica → Puede usar metodologías rigurosas (lógicas formales) o menos estructuradas (intuición experta, extrapolación, analogías)
+- Base Epistemológica → Puede partir de [HeCH], [AfES], [IfIA], [JuVL] o cualquier combinación
+- Incertidumbre → Admite posibilidad de error por naturaleza temporal
+- Etiquetado Simple → Solo requiere marcador [PrDC]
+
+Delimitación con **[IfIA]**:
+
+- [IfIA] → Sobre futuro son conclusiones lógicas estructuradas con alta certeza derivativa
+- [PrDC] → Proyecciones futuras con incertidumbre inherente, independientemente del rigor metodológico
+
+Metodologías Válidas:
+
+- Rigurosas → Procesos lógicos formales, modelos matemáticos, análisis estadístico
+- Flexibles → Intuición experta, extrapolación simple, analogías informales, reconocimiento de patrones
+Marcadores Lingüísticos:
+- Verbos futuros → Será, tendrá, alcanzará, llegará
+- Marcadores temporales → En 2030, próximo año, próximamente
+- Indicadores de proyección → Se espera, se proyecta, tendencia indica
+- Probabilidad → Probablemente, proyecciones sugieren
+
+Horizonte Temporal:
+
+- Sin límites → Desde [PrDC] inmediatas hasta [PrDC] de largo plazo mantienen el mismo estatus epistemológico.
+
+Origen: [PrDC] es el producto resultante de la acción [PrER]
+
+## Juicio de Valor ↔︎ [JuVL]
+
+Evaluación que aplica criterios subjetivos para calificar algo como bueno/malo, mejor/peor, deseable/indeseable. No puede verificarse objetivamente porque depende del sistema de valores del evaluador.
+
+Características Operativas:
+
+- Naturaleza → Evaluación subjetiva no verificable objetivamente
+- Dependencia → Sistema de valores del emisor
+- Base Epistemológica → Puede partir de [HeCH], [IfIA], [AfES] o ser puramente subjetivo
+- Temporalidad → Exclusivamente presente/pasado (futuro se convierte en [PrDC])
+- Etiquetado → Solo requiere marcador [JuVL]
+
+Transiciones Automáticas:
+
+- [JuVL] → [AfES] cuando una persona o entidad adopta oficialmente el [JuVL]
+- [JuVL] sobre futuro → [PrDC] evaluaciones referidas al futuro se convierten en [PrDC]
+
+Marcadores Lingüísticos:
+
+- Adjetivos valorativos → Excelente, superior, ideal, perfecto
+- Comparativos subjetivos → Mejor, peor, más conveniente
+- Superlativos → El mejor, único, incomparable, insuperable
+- Evaluadores → Vale la pena, es recomendable, es preferible
+
+Delimitación vs Otros Conceptos:
+
+- vs [HeCH] → [HeCH] verificable objetivamente, [JuVL] subjetivo
+- vs [AfES] → [AfES] adoptado oficialmente por persona o entidad, [JuVL] individual
+- vs [PrDC] → [PrDC] referido al futuro, [JuVL] presente/pasado
+
+# Principios Generales
+
+## Trazabilidad Epistemológica
+
+Todo contenido debe clasificarse según su origen epistemológico para mantener claridad sobre niveles de certeza y confiabilidad.
+
+## Etiquetado Automático
+
+- Los [HeCH] y las [AfES] no deben etiquetarse
+- Las [IfIA] requieren etiquetado automático según [SiIF] y [EtIF]
+- Los demás orígenes epistemológicos se etiquetan solo con la [SñAL] correspondiente
+
+## Transiciones Conceptuales
+
+Algunos conceptos pueden transformarse automáticamente:
+
+- [JuVL] → [AfES] cuando persona o entidad los adopta oficialmente
+- [JuVL] sobre futuro → [PrDC] automáticamente
+- [IfIA] altamente estructurada sobre futuro puede mantenerse como [IfIA]
+
+## Jerarquía de Confiabilidad
+
+1. [HeCH] → Máxima confiabilidad
+2. [AfES] → Confiabilidad operativa para persona o entidad
+3. [IfN1] → Alta confiabilidad lógica
+4. [IfN2] → Confiabilidad lógica moderada
+5. [IfN3] → Confiabilidad lógica mínima aceptable
+6. [PrDC] → Confiabilidad variable según metodología
+7. [JuVL] → Sin confiabilidad objetiva verificable
